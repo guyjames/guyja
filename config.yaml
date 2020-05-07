@@ -1,16 +1,19 @@
-title: Stackbit Fjord Theme
+title: Guy James
 baseURL: /
+paginate: 10 #frontpage pagination
 params:
   palette: yellow
   header:
-    title: Fjord
-    tagline: Minimal and clean blog theme
+    title: Guy James
+    tagline: Some idle speculations you are doing well to ignore.
+    description: Ruminations on GameB, P2P, collapse, regenerative cultures, psychedelics and music. Idle speculations you are doing well to ignore.
     logo_img: images/logo.png
     bg_img: images/header-bg.jpg
     has_nav: true
     has_social: true
+
   footer:
-    content: '&copy; All rights reserved.'
+    content: '&copy; Guy James 2020. All rights reserved.'
     links:
       - text: Made with Stackbit
         url: 'https://www.stackbit.com'
