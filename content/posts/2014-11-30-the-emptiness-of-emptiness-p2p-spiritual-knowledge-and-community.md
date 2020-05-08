@@ -4,6 +4,8 @@ author: Guy
 layout: post
 date: 2014-11-30T18:40:29+00:00
 url: /2014/11/30/the-emptiness-of-emptiness-p2p-spiritual-knowledge-and-community/
+thumb_img_path: /images/empty.jpg
+content_img_path: /images/empty.jpg
 pdrp_attributionLocation:
   - end
 categories:
@@ -89,3 +91,5 @@ This chimes with something I heard recently in an excellent discussion between <
 In the same way, to speak about a P2P spirituality may be useful as a sort of signpost on the way, but we are mistaken if we take it too seriously, for the reason that an effective spirituality is the realisation that we are all already One, and what is One does not need to come together, as a true collective does not question its solidarity, and indeed has no need for the words &#8216;collective&#8217; or &#8216;community&#8217;. These may be difficult ideas to grasp these days when we are so indoctrinated into the mindset of separation, but this only highlights how much our ways of thinking have to change in order for there to be any chance of real evolution on the &#8216;individual&#8217;, &#8216;collective&#8217;, and &#8216;spiritual&#8217; levels. And of course, even the word &#8216;levels&#8217; is just another concept born of separation. We can use these concepts as long as we are careful and remember they are only that. To fight and die for a concept or ideal is surely the height of Utopian stupidity.
 
  [1]: https://2018.guyjames.com/wp-content/uploads/2014/11/p2p.jpg
+
+ `Photo by Wladislaw Peljuchno on Unsplash`

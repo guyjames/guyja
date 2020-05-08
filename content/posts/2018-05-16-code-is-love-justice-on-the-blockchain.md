@@ -4,6 +4,10 @@ author: Guy
 layout: post
 date: 2018-05-16T15:01:27+00:00
 url: /2018/05/16/code-is-love-justice-on-the-blockchain/
+thumb_img_path: /images/48297243402_f788e10295_h.jpg
+content_img_path: /images/48297243402_f788e10295_h.jpg
+excerpt: >-
+   Never forget that justice is what love looks like in public. Indeed, never forget. Because we are a forgetful society and often end up valuing symbols we think represent love more than Love itself or the Justice which is its public face.
 pdrp_attributionLocation:
   - end
 categories:
@@ -18,7 +22,11 @@ tags:
 ---
 We all know that &#8216;love&#8217; is a dirty word these days. It is relentlessly abused by advertisers who always seek to exploit our earliest psychological bonds with our parents and then by sheer repetition, associate themselves with those symbols we learnt in our childhood relating to those bonds. &#8216;Love&#8217; is one such, and massively overused by Hollywood to boot, in its romantic aspect.
 
-However, as Cornel West so eloquently put it — <span class="pullquote">&#8216;Never forget that justice is what love looks like in public.&#8217;</span> Indeed, never forget. Because we are a forgetful society and often end up valuing symbols we think represent love more than Love itself or the Justice which is its public face.
+However, as Cornel West so eloquently put it —
+
+>&#8216;Never forget that justice is what love looks like in public.&#8217;
+
+Indeed, never forget. Because we are a forgetful society and often end up valuing symbols we think represent love more than Love itself or the Justice which is its public face.
 
 So, perhaps we are cynical about love, having been disappointed multiple times in our own personal lives and deceived in its name by those who have used the word to manipulate us. We are embarrassed by displays of love and affection and pride ourselves on our &#8216;objective&#8217;, &#8216;non-sentimental&#8217; view of life.
 
@@ -41,3 +49,5 @@ How do we create new systems based on love? We need less theory and more practic
 Not to tackle this problem and just leave it to chance would be a mistake — we need to face up to the problem of governance — to avoid it would lead to a rule by default of those who currently have the most power in our societies. This means those who are already rich, and those who work for them, those who literally write the code of our laws and social operating systems — the politicians, and in the corporate world, lawyers, lobbyists and programmers. The more we let corporations decide how things work, the more we will be ruled by a tech elite by default. These people are inherently specialists, and specialists are not qualified to rule as they generally have no overview of the processes at work on a large scale. Please note that I am not joining the &#8216;we are sick of experts&#8217; crew; experts and specialists are certainly needed, however we also need generalists and what were traditionally known as &#8216;wise&#8217; people to help us navigate our way. I notice that &#8216;wisdom&#8217; has more or less been consigned to the dustbin of &#8216;not realistic&#8217; along with &#8216;love&#8217;, &#8216;justice&#8217;, and &#8216;mercy&#8217;. However, ultimately &#8216;realistic&#8217; in this context is what we decide it is.
 
 In our organisations, at a smaller scale, to not face up to how we govern ourselves means we fall into the trap of replicating legacy hierarchical systems, or prey to the &#8216;tyranny of structurelessnesss&#8217;. We have to get things straight — our systems must be based on justice first then tech later, anything less will only serve to prolong the current disaster. Getting over our squeamishness about the word — and the fundamental concept of — love, whether it be in the form of justice, solidarity, or compassion, must be our priority. We need to talk about how we can structure our organisations from a seed vision of justice. Then we will create structures which not only do no harm, but actually start to regenerate our social contract and both personal and professional relationships.
+
+[Code](https://flickr.com/photos/jcubic/48297243402 "Code") flickr photo by [jcubic](https://flickr.com/people/jcubic) shared under a [Creative Commons (BY-SA) license](https://creativecommons.org/licenses/by-sa/2.0/)

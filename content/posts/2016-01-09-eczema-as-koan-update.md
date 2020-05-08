@@ -5,6 +5,8 @@ layout: post
 date: 2016-01-09T10:22:56+00:00
 excerpt: Ultimately the way we relate to the world, our cultural conditioning, is not congruent with nature itself, with our own inner nature (which is the same as Nature as a whole of course), and so these autoimmune diseases appear in order to show us that something is wrong. The identification with this whole conditioning can be questioned and ultimately, discarded. There is probably nothing harder to do in this world and also nothing more worthwhile than this, so if any of this applies to anyone here, keep going! It may seem like the suffering is endless but I am convinced I am not a special case and that anyone who is in a similar situation can heal as I did.
 url: /2016/01/09/eczema-as-koan-update/
+thumb_img_path: /images/tunnel.jpg
+content_img_path: /images/tunnel.jpg
 pdrp_attributionLocation:
   - end
 categories:
@@ -19,7 +21,7 @@ tags:
 
 ---
 I thought I would add a brief update related to my [previous posts][1] about becoming healed from severe eczema. These passages are adapted from replies to people on the Eczema/Topical Steroid Withdrawal group on Facebook. Given the ephemeral nature of Facebook I wanted to save them somewhere in case they might be useful to anyone in the future.
-  
+
 <!--more-->
 
 * * *
@@ -53,3 +55,5 @@ It does certainly appear that a person is born with a kind of &#8216;blueprint&#
 All that may be irrelevant to someone healing or caring for someone else who is healing but in my case I saw that it was in fact the reason I got ill in the first place &#8211; to show me that the way I was living and relating to experience was &#8216;wrong&#8217;, or maybe better to say &#8216;optional&#8217;. 😉
 
 [1]: {{< ref "2014-08-12-eczema-as-koan-part-1.md" >}}
+
+`Photo by Anthony DeRosa from Pexels`

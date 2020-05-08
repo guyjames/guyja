@@ -2,7 +2,7 @@ title: Guy James
 baseURL: /
 paginate: 10 #frontpage pagination
 params:
-  palette: yellow
+  palette: green
   header:
     title: Guy James
     tagline: Some idle speculations you are doing well to ignore.
