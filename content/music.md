@@ -2,6 +2,11 @@
 title: Music
 subtitle: My spare time sometimes has a bit of spare time, and in it I have made music.
 layout: page
+img_path: images/music.jpg
+menu:
+  main:
+    name: Music
+    weight: 3
 ---
 [Click here to go to my BandCamp page](http://music.guyjames.com/album/guy-james)
 
