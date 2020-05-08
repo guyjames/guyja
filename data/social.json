@@ -17,6 +17,24 @@
             "title": "GitHub",
             "icon": "fa-github",
             "url": "https://github.com/guyjames"
+        },
+        {
+            "type": "mastodon",
+            "title": "Mastodon",
+            "icon": "fa-mastodon",
+            "url": "https://social.coop/guyjames"
+        },
+        {
+            "type": "keybase",
+            "title": "Keybase",
+            "icon": "fa-keybase",
+            "url": "https://keybase.io/guyjames"
+        },
+        {
+            "type": "facebook",
+            "title": "Facebook",
+            "icon": "fa-facebook",
+            "url": "https://fb.me/guyjamesstaniforth"
         }
     ]
 }
