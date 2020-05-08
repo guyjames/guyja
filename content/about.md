@@ -1,7 +1,7 @@
 ---
 title: About Me
 subtitle: Just another refugee from normality.
-img_path: images/about.jpg
+img_path: images/guyjames.jpg
 menu:
   main:
     name: About
