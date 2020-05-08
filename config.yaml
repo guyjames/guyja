@@ -15,8 +15,8 @@ params:
   footer:
     content: '&copy; Guy James 2020. All rights reserved.'
     links:
-      - text: Made with Stackbit
-        url: 'https://www.stackbit.com'
+      - text: Design by wild.cat using Fjord theme and StackBit.
+        url: 'https://wild.cat'
         new_window: true
 disableKinds:
   - RSS
