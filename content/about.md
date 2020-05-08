@@ -25,3 +25,5 @@ My main interest is in regenerative solutions to repair the damage done by our d
 Other interests are meditation, or what might be called Non-Dual Awakening, walking in the mountains, and playing and listening to all kinds of music. If you read some blog entries you will get a picture of what I am up to and what I am into.
 
 I am on Mastodon @guyjames@social.coop (and the surveillance capitalism networks too).
+
+You can see a selection of my photography at [photos.guyjames.com](https://photos.guyjames.com/).
