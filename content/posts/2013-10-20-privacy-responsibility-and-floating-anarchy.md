@@ -3,14 +3,13 @@ title: Privacy, Responsibility, and ‘Floating Anarchy’
 author: Guy
 layout: post
 date: 2013-10-20T19:50:14+00:00
-excerpt: |
-  Tigre-de-bengala' If national life becomes so perfect as to become self-regulated, no representation become necessary. There is then a state of enlightened anarchy. In such a state everyone is his own ruler. He rules himself in such a manner that he is never a hindrance to his neighbour. In the ideal State, therefore, there is no political power because there is no State.' - Gandhi
-
+excerpt: >-
   'Anarchy is not misrule but no rule' - Floating Anarchy Manifesto, Daevid Allen
 
   Following on from my previous post, 'Big Brother is the Reincarnation of God', I have been considering how we give up our power to our god-surrogate, whether that be in the form of governments, corporations, or indeed organised religions.
 url: /2013/10/20/privacy-responsibility-and-floating-anarchy/
-featured_image: /wp-content/uploads/2013/10/anarchie-flottante.jpg
+thumb_img_path: /wp-content/uploads/2013/10/anarchie-flottante.jpg
+content_img_path: /wp-content/uploads/2013/10/anarchie-flottante.jpg
 pdrp_attributionLocation:
   - end
 categories:

@@ -4,6 +4,10 @@ author: Guy
 layout: post
 date: 2011-07-01T14:53:42+00:00
 url: /2011/07/01/kill-your-practice/
+thumb_img_path: /images/surrender.jpg
+content_img_path: /images/surrender.jpg
+excerpt: >-
+  The idea of 'practice' creates a false self with its own hopes and expectations and all the sense of future which goes with it. Although we may indeed improve in some sense with more time and more practice: stilling the mind, controlling the emotions etc., we are in fact strengthening this false future-dependent self and ultimately getting further and further away from fully experiencing the present moment. Enlightenment or fulfilment remains tantalisingly out of reach.
 dsq_thread_id:
   - 717019150
 categories:
@@ -15,3 +19,5 @@ Buddhists call what they do when they sit down to meditate &#8216;practice&#8217
 The idea of &#8216;practice&#8217; creates a false self with its own hopes and expectations and all the sense of future which goes with it. Although we may indeed improve in some sense with more time and more practice: stilling the mind, controlling the emotions etc., we are in fact strengthening this false future-dependent self and ultimately getting further and further away from fully experiencing the present moment. Enlightenment or fulfilment remains tantalisingly out of reach.
 
 The solution for me, at any rate, is to forget everything, forget that I know how to meditate, forget any idea of getting better at it, and just totally surrender. By the way, surrender is not something that can be practised!
+
+`Photo by Craig Adderley from Pexels`

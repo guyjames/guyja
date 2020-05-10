@@ -4,7 +4,10 @@ author: Guy
 layout: post
 date: 2013-08-03T10:40:44+00:00
 url: /2013/08/03/big-brother-is-the-reincarnation-of-god/
-featured_image: /wp-content/uploads/2013/08/10415575_10152263968121179_2103058359115300756_n.jpg
+thumb_img_path: /wp-content/uploads/2013/08/10415575_10152263968121179_2103058359115300756_n-184x300.jpg
+content_img_path: /wp-content/uploads/2013/08/10415575_10152263968121179_2103058359115300756_n-184x300.jpg
+excerpt: >-
+   ‘God is dead. God remains dead. And we have killed him. Yet his shadow still looms.’ — Nietzsche, The Gay Science.
 pdrp_attributionLocation:
   - end
 categories:

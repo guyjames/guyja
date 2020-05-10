@@ -4,8 +4,9 @@ author: Guy
 layout: post
 date: 2011-05-26T10:54:29+00:00
 url: /2011/05/26/just-being-is-a-revolutionary-act/
-externimg:
-  - http://farm3.static.flickr.com/2045/2342570786_e572bdf22f_m.jpg
+thumb_img_path: /images/dew.jpg
+content_img_path: /images/dew.jpg
+excerpt: >-
 dsq_thread_id:
   - 641500281
 categories:
@@ -26,6 +27,4 @@ Of course, sometimes we have to be productive, have to be part of the machine, b
 
 If this seems like nonsense to you, maybe you are so embedded in the prevalent corporate mindset that you are unable to see outside of it. Just stop, and gently ask yourself if you really think for yourself or if your mind has been programmed for you by others.
 
-<a title="Raindrops on calm water" href="https://www.flickr.com/photos/16074747@N00/2342570786/" target="_blank"><img src="http://farm3.static.flickr.com/2045/2342570786_e572bdf22f_m.jpg" border="0" alt="Raindrops on calm water" /></a>
-  
-<small><a title="Attribution-NonCommercial-ShareAlike License" href="http://creativecommons.org/licenses/by-nc-sa/2.0/" target="_blank"><img src="https://2018.guyjames.com/wp-content/plugins/photo-dropper/images/cc.png" border="0" alt="Creative Commons License" width="16" height="16" align="absmiddle" /></a> <a href="http://www.photodropper.com/photos/" target="_blank">photo</a> credit: <a title="cosmonautirussi" href="https://www.flickr.com/photos/16074747@N00/2342570786/" target="_blank">cosmonautirussi</a></small>
+`Photo by Pille Kirsi from Pexels`

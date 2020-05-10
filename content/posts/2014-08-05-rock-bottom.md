@@ -5,7 +5,8 @@ layout: post
 date: 2014-08-05T21:08:58+00:00
 excerpt: "The recent article by Josh Ellis 'Everyone I Know Is Brokenhearted' which has apparently gone viral, seems to have struck a chord among large numbers of people seriously disaffected by the current state of affairs in which we find ourselves. I  also read a moving companion piece in 'A counterpoint for the brokenhearted' in which the author provides pays tribute to a friend who did everything he could to relieve the suffering of desperate people."
 url: /2014/08/05/rock-bottom/
-featured_image: /wp-content/uploads/2014/08/4399089045_90c6e808b0.jpg
+thumb_img_path: /wp-content/uploads/2014/08/4399089045_90c6e808b0.jpg
+content_img_path: /wp-content/uploads/2014/08/4399089045_90c6e808b0.jpg
 pdrp_attributionLocation:
   - end
 categories:

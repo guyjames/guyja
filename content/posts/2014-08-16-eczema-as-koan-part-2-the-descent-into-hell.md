@@ -4,7 +4,10 @@ author: Guy
 layout: post
 date: 2014-08-16T19:19:10+00:00
 url: /2014/08/16/eczema-as-koan-part-2-the-descent-into-hell/
-featured_image: /wp-content/uploads/2014/08/escalator_to_hell.jpg
+thumb_img_path: /wp-content/uploads/2014/08/escalator_to_hell-300x200.jpg
+content_img_path: /wp-content/uploads/2014/08/escalator_to_hell-300x200.jpg
+excerpt: >-
+   “]The convulsions]… then gradually merged into the experience of being burnt- at first it was just a powerful feeling of my body burning but then an image formed in my mind of me lying on the ground burning and a circle of people around me watching me burning and not doing anything to help me, in fact seeming to take a demonic pleasure in seeing me suffer. Overall the energy seemed to have an infernal or satanic quality to it. Gradually I realised I had the option to become the fire itself that was burning me and I briefly experienced being a pure flame, my arms describing the movement of the fire.
 pdrp_attributionLocation:
   - end
 categories:

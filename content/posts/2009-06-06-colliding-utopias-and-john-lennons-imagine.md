@@ -3,12 +3,15 @@ title: Colliding Utopias… and John Lennon’s ‘Imagine’
 author: Guy
 layout: post
 date: 2009-06-06T14:41:43+00:00
+
 excerpt: "The main assumption arising from utopianism is the pernicious notion is that 'the end justifies the means'- or put more prosaically, 'you can't make an omlette without breaking eggs' - real-world meaning: 'you can't make a utopia without breaking heads'. Current atrocities are excused by the justification that 'it'll be worth it in the end' i.e. when the utopia has come to pass and everyone is happy."
 url: /2009/06/06/colliding-utopias-and-john-lennons-imagine/
+thumb_img_path: /images/dystopia.jpeg
+content_img_path: /images/dystopia.jpeg
+excerpt: >-
+  Of course the problem is is that your utopia gets in the way of mine. A 'utopia' may be partly created, as in Nazi Germany in the 1930s, but when it is seen not to provide the universal happiness promised, this is blamed on conflicting and competing utopias which must be crushed in order for 'our' utopia to triumph, upon which everyone will accept that 'we were right' and say sorry for trying to create their flawed utopia in competition to ours.
 stt2_update_tags:
   - November 10, 2010
-externimg:
-  - http://farm4.static.flickr.com/3132/2768762619_17193c414b_m.jpg
 dsq_thread_id:
   - 583593697
 pdrp_attributionLocation:

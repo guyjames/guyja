@@ -7,6 +7,8 @@ url: /2014/08/24/eczema-as-koan-part-3-the-way-out/
 thumb_img_path: /wp-content/uploads/2014/08/alchemy_xxvii__alchemy_ddc2232jpg.jpg
 content_img_path: /wp-content/uploads/2014/08/alchemy_xxvii__alchemy_ddc2232jpg.jpg
 featured_image: /wp-content/uploads/2014/08/alchemy_xxvii__alchemy_ddc2232jpg.jpg
+excerpt: >-
+  This experience really changed everything for me and I could see that the whole experience of getting ill had all been for a reason, and in fact was a great gift. It had shown me the limits of our human arrogance, the belief that we &#8216;know it all&#8217; – we are so clever and complicated but in reality that is just hubris and pride; ultimately we know next to nothing but are not willing to admit it in case it damages our carefully-preserved self image.
 pdrp_attributionLocation:
   - end
 categories:

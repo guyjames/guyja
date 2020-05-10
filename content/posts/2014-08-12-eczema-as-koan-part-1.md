@@ -3,9 +3,11 @@ title: Eczema as Koan Part 1
 author: Guy
 layout: post
 date: 2014-08-12T18:51:03+00:00
-excerpt: About four years ago I spilt up with my girlfriend and subsequently became rather ill – I was eventually hospitalised and on admission the first nurse who saw me in a hospital gown assumed I had been burnt in a house fire, so badly destroyed was the weeping, bleeding skin all over my body. I took the drugs they gave me and the skin got better quickly. The drugs eventually weakened my teeth to the point that I broke three in just a couple of weeks so I stopped taking them. Within about a week the skin was really bad again. I tried every therapy, alternative or otherwise I could find, changed my diet completely. Nothing really worked.
+excerpt: >-
+  About four years ago I spilt up with my girlfriend and subsequently became rather ill – I was eventually hospitalised and on admission the first nurse who saw me in a hospital gown assumed I had been burnt in a house fire, so badly destroyed was the weeping, bleeding skin all over my body. I took the drugs they gave me and the skin got better quickly. The drugs eventually weakened my teeth to the point that I broke three in just a couple of weeks so I stopped taking them. Within about a week the skin was really bad again. I tried every therapy, alternative or otherwise I could find, changed my diet completely. Nothing really worked.
 url: /2014/08/12/eczema-as-koan-part-1/
-featured_image: /wp-content/uploads/2014/08/standing_at_the_gates_of_hell.jpg
+thumb_img_path: /wp-content/uploads/2014/08/standing_at_the_gates_of_hell.jpg
+content_img_path: /wp-content/uploads/2014/08/standing_at_the_gates_of_hell.jpg
 pdrp_attributionLocation:
   - end
 categories:

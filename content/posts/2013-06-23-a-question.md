@@ -4,6 +4,22 @@ author: Guy
 layout: post
 date: 2013-06-23T14:04:57+00:00
 url: /2013/06/23/a-question/
+thumb_img_path: /images/electricity.jpg
+content_img_path: /images/electricity.jpg
+excerpt: >-
+  The eye expands to bathe the earth
+
+  In sight
+
+  Laughing at thoughts
+
+  That speak of death and birth
+
+  The Urge that brought us here
+
+  Just below the perfume of the world,
+
+  Beyond the campfire’s borrowed light
 pdrp_attributionLocation:
   - end
 categories:
@@ -139,3 +155,6 @@ Yet we chase sounds of soft lips
 As if they had an answer
 
 To a question never asked.
+
+
+`Photo by Gabi R from Pexels`

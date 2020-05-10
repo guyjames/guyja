@@ -4,6 +4,8 @@ author: Guy
 layout: post
 date: 2015-05-15T12:37:01+00:00
 url: /2015/05/15/the-raptcha/
+thumb_img_path: /images/cross.jpg
+content_img_path: /images/cross.jpg
 categories:
   - Asides
 tags:

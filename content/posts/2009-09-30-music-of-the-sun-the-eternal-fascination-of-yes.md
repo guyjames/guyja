@@ -4,6 +4,10 @@ author: Guy
 layout: post
 date: 2009-09-30T21:26:53+00:00
 url: /2009/09/30/music-of-the-sun-the-eternal-fascination-of-yes/
+thumb_img_path: /images/Howe_and_Anderson,_1973.jpg
+content_img_path: /images/Howe_and_Anderson,_1973.jpg
+excerpt: >-
+  In a way, and despite these stories and many more, Yes is one of the most ego-less bands ever to have existed. Because when a group of musicians, usually including Squire, Anderson and Steve Howe gets together and calls itself Yes, something develops which puts all of their individual pettiness in the shade.
 stt2_update_tags:
   - November 10, 2010
 dsq_thread_id:
@@ -19,9 +23,6 @@ tags:
 Prog rock. Progressive Rock. Filthy, hated, heretical noise, utterly shunned since Year Zero (1976). But I love it&#8230; or a great deal of it anyway.
 
 Those who lump dazzling avatars of God&#8217;s Own Progression like Yes, Genesis (the early version, naturally) and King Crimson in with lumpen regurgitators of egoistic bombast like Emerson Lake and Palmer are merely demonstrating their own cloth-ears. Where ELP sound totally of their time, Yes in particular are still in the fantastic future world they created for themselves.
-
-
-{{< figure src="https://www.flickr.com/photos/27164277@N00/2386851096" alt="2008APR041418" >}}
 
 I remember the first time I heard Yes, the actual location is irrelevant because as soon as I heard them (it was the opening of _The Gates of Delerium_ from &#8216;Relayer&#8217;), I was totally transported into a parallel universe where the rules of what &#8216;rock&#8217; was supposed to be had not been ripped up, they had never existed in the first place. Anything went and the more out there the better. It seemed like all the musicians were playing solos at once, to different songs, YET it worked. Of course the more I heard it, the more it became evident that they were not just wildly improvising, there was a coherent plan behind it, which is why it worked.  <span class="pullquote">People call prog &#8216;impenetrable&#8217; but it is, at its best, profoundly penetrable, it&#8217;s just that they don&#8217;t have the patience to listen to it four or five times in order to work out what the hell is going on.</span>
 
@@ -57,4 +58,4 @@ Of course to see old footage of Yes, like their concert film _Yessongs_, one lau
 
 Check them out (again) now.
 
-{{< figure src="https://flic.kr/p/6VbSSN" alt="YesRelayerTourBook18b by smithereen11 on flickr" >}}
+<a title="Hunter Desportes / CC BY (https://creativecommons.org/licenses/by/2.0)" href="https://commons.wikimedia.org/wiki/File:Howe_and_Anderson,_1973.jpg"><img width="512" alt="Howe and Anderson, 1973" src="https://upload.wikimedia.org/wikipedia/commons/0/07/Howe_and_Anderson%2C_1973.jpg"></a>

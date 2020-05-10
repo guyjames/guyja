@@ -13,13 +13,9 @@ categories:
 
 ---
 I&#8217;ve been hearing a lot about the Stock Market bubble bursting, or the financial bubble has burst or whatever, but what it really seems to be is that the whole bubble of our culture is about to burst.
-  
+
 And why? For the same reason that these big financial institutions are in trouble: when something gets totally cut off from reality, it forms a bubble, and forms a little reality of its own- the trouble is, this reality, like any bubble, will pop sooner or later.
-  
-<!--more-->
 
-
-  
 I have heard the UK political scene described as a bubble many times, and the reason it hasn&#8217;t quite popped yet is because the bubble includes the media **and** the politicians- if it was just the politicians, then the media would pop their bubble pretty sharpish, but the politicians have been clever and have invited the media into their little London-centric, ex public school reality bubble with them, and they have both sailed off together into the sky, leaving everyone else behind.
 
 At first people gazed in wonder as the bubble rose into the air, wondering if it was too late to join, and some squeezed in to join the party going on in there. After a while though, those inside realised they could only see each other, and the inner walls of the bubble were mirrored so they couldn&#8217;t see out at all. They felt pretty clever that they had left all the &#8216;ordinary people&#8217; behind on the ground but as the bubble rose, they started to get the nagging feeling that they had left _terra firma_ with no idea of where they were going.
