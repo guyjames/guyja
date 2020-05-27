@@ -9,7 +9,7 @@ HUGO_VERSION = "0.63.2"
 package = "netlify-plugin-rss"
   [plugins.inputs]
   # required configs, customize as needed
-  dirToScan = "/content/posts" # a subfolder to scan. "/" to scan all
+  dirToScan = "/" # a subfolder to scan. "/" to scan all
   authorName = "Guy James"
   site_url = "https://guyjames.com"
   title = "Guy James RSS Feed"
