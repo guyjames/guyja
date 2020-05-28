@@ -13,5 +13,5 @@ package = "netlify-plugin-rss"
   authorName = "Guy James"
   site_url = "https://guyjames.com"
   title = "Guy James RSS Feed"
-  rssDescription = "RSS Feed description"
+  rssDescription = "Idles speculations you are doing well to ignore"
   categories = ['music']
