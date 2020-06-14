@@ -25,7 +25,7 @@ So it appears to be a a necessary process, and I don't come to the conclusion, a
 
 However we are now of course entering seriously unstable times as a result.
 
-Jamie Wheal called the book he wrote with Steven Kotler, 'Stealing Fire', and that exactly describes my experience in the practice of Holotropic Breathwork; I experienced in a visionary state that I was literally stealing fire from the Gods; you can read about it here. It seems to me that this myth of Prometheus, and also the myth of Icarus, are among the most dominant of our time; both dealing with the limitations of humanity. The Tower of Babel also points to what can happen when we concentrate power too intensively. Interestingly, Breughel used two of those myths as subjects for paintings.
+Jamie Wheal called the book he wrote with Steven Kotler, 'Stealing Fire', and that exactly describes my experience in the practice of Holotropic Breathwork; I experienced in a visionary state that I was literally stealing fire from the Gods; [you can read about it here]( {{< ref "2014-08-16-eczema-as-koan-part-2-the-descent-into-hell.md" >}} ). It seems to me that this myth of Prometheus, and also the myth of Icarus, are among the most dominant of our time; both dealing with the limitations of humanity. The Tower of Babel also points to what can happen when we concentrate power too intensively. Interestingly, Breughel used two of those myths as subjects for paintings.
 
  ![Tower of Babel](http://1.bp.blogspot.com/-o4pm_iohIU8/TqP1jWw1gFI/AAAAAAAABOI/G15sQ5neNb8/s1600/The+Tower+of+Babel-+Pieter+Bruegel+-+1563.jpg)
 
