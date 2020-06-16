@@ -50,11 +50,20 @@
         </article>
       </nav>
       -->
-
+      <section class="section">
+       <div class="container max-800px">
+          <div id="replybox"></div>
+       </div>
+      </section>
     </main><!-- .site-main -->
 
     {{ partial "footer.html" . }}
 
   </div><!-- .site-content -->
-
+  <script>
+   window.replybox = {
+	 site: 'm6gBx7wnbM',
+   };
+  </script>
+ <script src="https://cdn.getreplybox.com/js/embed.js"></script>
 {{ end }}
