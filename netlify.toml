@@ -1,5 +1,5 @@
 [build]
-publish = "/"
+publish = "public"
 command = "./stackbit-build.sh"
 
 [build.environment]
