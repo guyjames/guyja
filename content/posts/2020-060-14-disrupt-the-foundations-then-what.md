@@ -11,6 +11,8 @@ layout: post
 
 ---
 
+> "We broke the ruptured structure built of age." - David Bowie, Cygnet Committee.
+
 I was just listening to [the eMERGE podcast](https://anchor.fm/emerge/), the interview with Jamie Wheal by Daniel Thorson, and they were talking about the perception that, bit by bit, everything familiar is being deconstructed. And I remember that I had the sensation the other day when I woke up, that money had no value; that I would live to see a day, or there will be a day when, suddenly or gradually, money has no value - that we would have completely lost faith in the concept of money itself. Essentially money is a shared reality, an emergent property of a network. Without belief in it, a credit card is just a piece of plastic, and 'ten Euros' just reverts to being a piece of paper.
 
 They were talking about a similar thing in relation to time, and I was also thinking about time, because Jamie Wheal used the expression "going forward", meaning "in the future". That expression has always struck me as a little bit problematic, because it implies that time is an arrow and we are going forward into time; it does feel like that to me, but of course maybe that's just conditioning, we use these expressions unconsciously of course. He was even talking about time itself when he used that expression, presumably unconsciously.
