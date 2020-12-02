@@ -4,8 +4,8 @@ date: "2020-12-02 17:52"
 title: "This site is now on IPFS"
 subtitle: Thanks to Fleek
 url: /2020/12/02/now-on-ipfs/
-thumb_img_path: /images/brueghel-icarus.jpg
-content_img_path: /images/brueghel-icarus.jpg
+thumb_img_path: /images/browse_ipns.png
+content_img_path: /images/browse_ipns.png
 
 ---
 Thanks to [fleek.co](https://fleek.co), this site is now mirrored using the decentralised IPFS network. The direct link is [https://delicate-field-7734.on.fleek.co/](https://delicate-field-7734.on.fleek.co/), but easier to use the subdomain at [ipfs.guyjames.com](https://ipfs.guyjames.com).
