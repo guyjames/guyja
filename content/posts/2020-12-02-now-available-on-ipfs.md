@@ -8,7 +8,7 @@ thumb_img_path: /images/browse_ipns.png
 content_img_path: /images/browse_ipns.png
 
 ---
-Thanks to [fleek.co](https://fleek.co), this site is now mirrored using the decentralised IPFS network. The direct link is [https://delicate-field-7734.on.fleek.co/](https://delicate-field-7734.on.fleek.co/), but easier to use the subdomain at [ipfs.guyjames.com](https://ipfs.guyjames.com).
+Thanks to [fleek.co](https://fleek.co), this site is now mirrored using the decentralised IPFS network. The direct link is [https://delicate-field-7734.on.fleek.co/](https://delicate-field-7734.on.fleek.co/), and hopefully soon you will be able to use the subdomain at [ipfs.guyjames.com](https://ipfs.guyjames.com), although for some reason it's not working yet.
 
 Nice to know that I can't be censored when I break out the news that Bill Gates is secretly developing a new mandatory vaccine which connects recipients to the forthcoming 6G mobile network using embedded receivers in the eyelid (joke).
 
