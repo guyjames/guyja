@@ -12,4 +12,4 @@ layout: post
 
 Thanks to my friend and FairCoop colleague, Mario, for the interview. Follow him on Twitter: @TalkAlternativ1
 
-{{< youtube RWlkOb_GhuU >}}
+{{< figure src="/images/guyjames-interview-yt.jpg" link="https://youtu.be/RWlkOb_GhuU" width="640px" alt="Guy James Interview" >}}
