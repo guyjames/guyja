@@ -1,8 +1,9 @@
 ---
 layout: "post"
 title: "Is Your Life Really Predetermined?"
-date: "2021-01-13 21:02"
+date: 2021-01-13T22:20:30+02:00
 thumb_img_path: /images/rails.jpg
+content_img_path: /images/rails.jpg
 url: /2021/01/13/is-your-life-really-predetermined/
 hide_header: false
 excerpt: >-
@@ -14,9 +15,10 @@ tags:
   - Advaita
   - Jung
   - Balsekar
+  - Devs
 ---
 
-I was watching, and enjoying, the series [Devs](https://www.imdb.com/title/tt8134186/) - if you haven't seen it, it's a philosophical conundrum wrapped in a streaming mini-series format, something like Black Mirror or Mr Robot, with a very nice aesthetic to the music and design. Or it's a standard sci-fi mini-series with pretensions to having something to say philosophically. Anyway it got me thinking, which presumably is the point.
+I was watching, and enjoying, the series [Devs](https://www.imdb.com/title/tt8134186/), developed by Alex Garland - if you haven't seen it, it's a philosophical conundrum wrapped in a streaming mini-series format, something like Black Mirror or Mr Robot, with a very nice aesthetic to the music and design. Or it's a standard sci-fi mini-series with pretensions to having something to say philosophically. Anyway it got me thinking, which presumably is the point.
 
 Back in the day I was somewhat into teachers like Ramesh Balsekar, Roger Castillo, Tony Parsons and Lisa Cairns, who all basically go with the idea of a totally predetermined universe - Wikipedia explains:
 [Ramesh Balsekar - Wikipedia](https://en.wikipedia.org/wiki/Ramesh_Balsekar)
