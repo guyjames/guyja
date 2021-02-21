@@ -21,7 +21,7 @@ tags:
 
 > "One does not become enlightened by imagining figures of light, but by **making the darkness conscious**." ― C. G. Jung
 
-Some practioners of meditation appear to be holding on to assumptions which, while possibly beneficial in the proper context, can in fact end up being actually harmful when misunderstood. I speak from personal experience here, and also often see others struggling with this. You may well recognise it from your own practice. One of these is 'the more I meditate, the closer I get to being enlightened'.
+Some practitioners of meditation appear to be holding on to assumptions which, while possibly beneficial in the proper context, can in fact end up being actually harmful when misunderstood. I speak from personal experience here, and also often see others struggling with this. You may well recognise it from your own practice. One of these is 'the more I meditate, the closer I get to being enlightened'.
 
 The problem with this is, it does not take into account that one may actually be trying to **meditate away** pain and suffering, with enlightenment being imagined as a '**pure**' state in which pain and suffering are no longer experienced. So the practitioner, upon feeling any emotional discomfort which has been produced from a situation in their everyday life, starts trying to push away the pain by using some sort of concentration-based technique.
 
