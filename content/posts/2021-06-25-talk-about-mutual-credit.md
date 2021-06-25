@@ -14,4 +14,4 @@ I attempt a relatively brief and accessible explanation of why we are in the mes
 
 Talk given at the Unconference at the end of the Tools For The Regenerative Renaissance course, organised by Renaissance University.
 
-{{< figure src="/images/wtf-mc.jpg" link="https://youtu.be/cmjF--wBtvI" width="640px" alt="Guy James Presentation About Mutual Credit" >}}
+{{< figure src="/images/wtf-mc.jpg" link="https://www.youtube.com/watch?v=cmjF--wBtvI" width="640px" alt="Guy James Presentation About Mutual Credit" >}}
