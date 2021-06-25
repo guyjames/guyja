@@ -3,8 +3,8 @@
 title: "WTF Is Mutual Credit, or: How To Avoid Another Economic Crisis"
 date: 2021-06-25T19:15:30+02:00
 author: Guy James
-thumb_img_path: /images/wtf-mc.jpg.jpg
-content_img_path: /images/wtf-mc.jpg.jpg
+thumb_img_path: /images/wtf-mc.jpg
+content_img_path: /images/wtf-mc.jpg
 url: /2021/06/25/talk-about-mutual-credit/
 layout: post
 
