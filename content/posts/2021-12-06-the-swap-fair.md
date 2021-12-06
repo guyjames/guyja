@@ -7,27 +7,39 @@ thumb_img_path: /images/swap-fair.jpg
 content_img_path: /images/swap-fair.jpg
 url: /2021/12/06/the-swap-fair/
 layout: post
-
+excerpt: >-
+  Welcome to the post-apocalyptic world of the Mieres Swap Fair!
+    
 ---
 
-# The Swap Fair
-
 > *Por la noche en la ciudad
+>
 > Es la puta realidad
+>
 > Solo existe policía, desgraciada policía
+>
 > ¡Oh no!
+>
 > Documentación, me han pillado de marrón
+>
 > Me habeis cortado el vacilón, a comisaría
+>
 > Oh no!*
 - Eskorbuto - 'Oh No! No! No!'
 
 
 > At night in the city
+>
 > It's the fucking reality
+>
 > There's only police, the goddamn police
+>
 > Oh no!
+>
 > Documentation, I'm busted
+>
 > You've spoiled my fun, now off to the police station
+>
 > Oh no!
 
 "Under the table, under the table!" he hissed. Javi's demeanour had snapped from relaxed into vigilant.
