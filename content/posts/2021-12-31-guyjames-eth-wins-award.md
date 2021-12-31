@@ -12,7 +12,7 @@ excerpt: >-
 
 ---
 
-{{< tweet user="e_steroids" id="1475926146567004167" >}}
+![esteroids tweet announcing the award](/images/esteroids-tweet.png)
 
 If you visit the site guyjames.eth using Brave browser or use an IPFS plugin on other browsers you can directly access the decentralised version, otherwise best to use [https://guyjames.eth.limo](https://guyjames.eth.limo) which can be accessed by all browsers.
 
